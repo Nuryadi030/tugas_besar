@@ -1,0 +1,39 @@
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.exe.config
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.exe
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.pdb
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.csprojResolveAssemblyReference.cache
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form1.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form2.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Properties.Resources.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.csproj.GenerateResource.Cache
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.exe
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.pdb
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form3.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form4.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form5.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form6.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form7.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form8.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form9.resources
+D:\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.exe.config
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.exe
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.pdb
+D:\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.exe
+D:\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.pdb
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form1.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form2.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form3.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form4.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form5.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form6.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form7.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form8.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Form9.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.Properties.Resources.resources
+D:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.csproj.GenerateResource.Cache
+F:\drumah_sakit\drumah_sakit\bin\Debug\drumah_sakit.exe.config
+F:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.exe
+F:\drumah_sakit\drumah_sakit\obj\Debug\drumah_sakit.pdb
+D:\TB_PEMROGRAMAN TERSTRUKTUR\drumah_sakit\bin\Debug\drumah_sakit.exe.config
+D:\TB_PEMROGRAMAN TERSTRUKTUR\drumah_sakit\obj\Debug\drumah_sakit.exe
+D:\TB_PEMROGRAMAN TERSTRUKTUR\drumah_sakit\obj\Debug\drumah_sakit.pdb

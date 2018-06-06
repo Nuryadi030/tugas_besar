@@ -1,0 +1,15 @@
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Semester 4\pemograman Terstruktur\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\drumah_sakit\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\drumah_sakit\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
